@@ -5,9 +5,9 @@ spring:
 spring:
   profiles: dev #开发环境
   application:
-       name: microservicecloud-config-zzsxt-dev
+       name: microservicecloud-config-sxt-dev
 ---
 spring:
   profiles: test #测试环境
   application:
-      name: microservicecloud-config-zzsxt-test
+      name: microservicecloud-config-sxt-test
